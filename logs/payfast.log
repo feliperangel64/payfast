@@ -1,0 +1,7 @@
+{"message":"consultando pagamento: 5","level":"info"}
+{"message":"::ffff:172.17.0.1 - - [18/Jan/2019:16:49:54 +0000] \"GET /pagamentos/pagamento/5 HTTP/1.1\" 200 152\n","level":"info"}
+{"message":"::ffff:172.17.0.1 - - [18/Jan/2019:17:48:54 +0000] \"POST /pagamentos/pagamento HTTP/1.1\" 400 101\n","level":"info"}
+{"message":"::ffff:172.17.0.1 - - [18/Jan/2019:17:50:17 +0000] \"POST /pagamentos/pagamento HTTP/1.1\" 201 517\n","level":"info"}
+{"message":"::ffff:172.17.0.1 - - [06/Feb/2019:13:13:58 +0000] \"GET / HTTP/1.1\" 404 139\n","level":"info"}
+{"message":"::ffff:172.17.0.1 - - [06/Feb/2019:13:13:58 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150\n","level":"info"}
+{"message":"::ffff:172.17.0.1 - - [06/Feb/2019:13:14:01 +0000] \"GET / HTTP/1.1\" 404 139\n","level":"info"}
